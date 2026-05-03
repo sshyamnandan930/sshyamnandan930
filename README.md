@@ -9,6 +9,6 @@ I am a **Temenos Transact (T24) Developer** specializing in core banking transfo
 - 💬 **Ask me about:** - **Core Modules:** Customer, Accounts, AA (Arrangement Architecture), and FT.
     - **Technical Stack:** Infobasic/jBC, TAFJ/TAFC, Enquiries, Versions, and OFS.
     - **Integration:** IF (Integration Framework), IRIS APIs, and TWS.
-- 📫 **How to reach me:** [Insert your LinkedIn profile link or Email]
+- 📫 **How to reach me:** [sshyamnandan930@gmail.com]
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I can debug a complex AA property class in my head, but I still struggle to explain what "T24" is to my non-tech friends!
